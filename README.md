@@ -1,16 +1,16 @@
-## Hi there 👋
+## Himanshu Jorwal
 
-<!--
-**Himanshu-Jorwal/Himanshu-Jorwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Undergrad '28 @DTU
 
-Here are some ideas to get you started:
+Backend-focused development. Structured Systems. Project-driven work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects:
+- **[FinPAC](https://github.com/Himanshu-Jorwal/FinPAC)**  |  Finance backend with authentication, role-based access control, and analytics on relational data. SQL-first layered design.
+- **[Recipify](https://github.com/Himanshu-Jorwal/Recipify)**  |  AI recipe generator producing multiple suggestions per request with nutritional breakdown and structured inputs.
+- **[Lance-Projectile](https://github.com/Himanshu-Jorwal/Lance-Projectile)**  |  Minecraft Java Fabric 1.21.4 mod implementing custom projectile behavior and physics interactions.
+
+### Currently:
+Learning. Documenting.
+
+### Elsewhere:
+**[LinkedIn](https://www.linkedin.com/in/himanshu-jorwal/) · [X](https://x.com/_Deva_Path)**
