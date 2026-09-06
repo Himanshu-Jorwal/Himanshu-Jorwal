@@ -2,15 +2,16 @@
 
 CS Undergrad '28 @DTU
 
-Backend-focused development. Structured Systems. Project-driven work.
+Backend-focused development. Structured Systems. Project-driven work, with occasional detours into game dev.
 
 ### Projects:
-- **[FinPAC](https://github.com/Himanshu-Jorwal/FinPAC)**  |  Finance backend with authentication, role-based access control, and analytics on relational data. SQL-first layered design.
+- **[Disorder](https://github.com/Himanshu-Jorwal/Disorder)**  |  Top-down survival game in Godot 4/GDScript with a moon-phase system altering enemy behavior. Built solo from scratch.
 - **[Recipify](https://github.com/Himanshu-Jorwal/Recipify)**  |  AI recipe generator producing multiple suggestions per request with nutritional breakdown and structured inputs.
-- **[Lance-Projectile](https://github.com/Himanshu-Jorwal/Lance-Projectile)**  |  Minecraft Java Fabric 1.21.4 mod implementing custom projectile behavior and physics interactions.
+- **[FinPAC](https://github.com/Himanshu-Jorwal/FinPAC)**  |  Finance backend with authentication, role-based access control, and analytics on relational data. SQL-first layered design.
 
 ### Currently:
 Learning. Documenting.
+Trying to build a game solo.
 
 ### Elsewhere:
 **[LinkedIn](https://www.linkedin.com/in/himanshu-jorwal/) · [X](https://x.com/_Deva_Path)**
